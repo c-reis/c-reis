@@ -1,5 +1,5 @@
 ## Hello, World! 👋  
-### Full Stack Software Engineer | .NET & Angular | Integration Architect
+### Software Engineer | Integration Architect | .NET, Python & Angular 
 
 💼 **Arquiteto de Integrações** e **Desenvolvedor Full Stack** com sólida experiência em **.NET e Angular**, atuando no desenho, evolução e sustentação de **sistemas escaláveis, integrados e orientados a domínio**.
 
