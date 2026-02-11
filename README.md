@@ -3,17 +3,15 @@
 
 💼 **Arquiteto de Integrações** e **Engenheiro de Software** com sólida experiência em **.NET e Angular**, atuando no desenho, evolução e sustentação de **sistemas escaláveis, integrados e orientados a domínio/eventos**.
 
-Especialista em **arquitetura de APIs**, **controle de acesso**, **observabilidade** e **ambientes produtivos de alta criticidade**.  
-Foco constante em **qualidade, performance e decisões técnicas sustentáveis**.
+Experiência em ambientes de **alta complexidade**, tomando decisões arquiteturais baseadas em trade-offs de **performance**, **segurança** e **custo**, atuando próximo a times de produto, negócio e engenharia para entregar soluções sustentáveis em produção.
 
 ## 🧠 Core Expertise
 
 🧩 Arquitetura de Software  
-🔗 Integração entre Sistemas  
-🔐 Segurança e Autorização  
+🔗 Integração entre Sistemas
 📈 Performance e Observabilidade  
-🏗️ Clean Architecture  
 ⚙️ Sistemas Distribuídos
+🏗️ Clean Architecture
 
 ## 🛠️ Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
