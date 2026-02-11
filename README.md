@@ -1,7 +1,7 @@
 ## Hello, World! 👋  
 ### Software Engineer | Integration Architect | .NET, Python & Angular 
 
-💼 **Arquiteto de Integrações** e **Engenheiro de Software** com sólida experiência em **.NET e Angular**, atuando no desenho, evolução e sustentação de **sistemas escaláveis, integrados e orientados a domínio**.
+💼 **Arquiteto de Integrações** e **Engenheiro de Software** com sólida experiência em **.NET e Angular**, atuando no desenho, evolução e sustentação de **sistemas escaláveis, integrados e orientados a domínio/eventos**.
 
 Especialista em **arquitetura de APIs**, **controle de acesso**, **observabilidade** e **ambientes produtivos de alta criticidade**.  
 Foco constante em **qualidade, performance e decisões técnicas sustentáveis**.
