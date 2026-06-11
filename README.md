@@ -8,9 +8,9 @@
 
 💼 **Software Engineer** and **Solution Architect** with strong experience in designing, evolving, and sustaining **scalable, secure, and business-oriented software solutions** using **.NET, Angular, Python, APIs, and cloud-ready architectures**.
 
-I work across the full solution lifecycle, from understanding business needs and technical constraints to defining architecture, integration strategies, application design, and implementation guidelines. My focus is on building systems that are **maintainable, observable, performant, and prepared for growth**.
+I work across the full solution lifecycle, from understanding business needs and technical constraints to defining architecture, integration strategies, application design, and implementation guidelines.**.
 
-Experienced in **complex environments**, making architectural decisions based on trade-offs involving **performance, security, scalability, cost, maintainability, and delivery speed**. I collaborate closely with product, business, engineering, and infrastructure teams to transform requirements into sustainable technical solutions.
+Experienced in **complex environments**, making architectural decisions based on trade-offs involving **performance, security, scalability, cost, maintainability, and delivery speed**. I collaborate closely with product, business, engineering, and infrastructure teams to transform requirements into technical solutions.
 
 ## 🧠 Core Expertise
 
@@ -20,7 +20,6 @@ Experienced in **complex environments**, making architectural decisions based on
 📈 Performance and Observability  
 ⚙️ Distributed Systems  
 🏗️ Clean Architecture  
-☁️ Cloud-Ready Applications  
 🧭 Technical Decision-Making  
 
 ---
@@ -29,9 +28,9 @@ Experienced in **complex environments**, making architectural decisions based on
 
 💼 **Engenheiro de Software** e **Arquiteto de Soluções** com sólida experiência no desenho, evolução e sustentação de **soluções de software escaláveis, seguras e orientadas ao negócio**, utilizando **.NET, Angular, Python, APIs e arquiteturas para cloud**.
 
-Atuo em diferentes etapas do ciclo de vida da solução, desde o entendimento das necessidades de negócio e restrições técnicas até a definição da arquitetura, estratégias de integração, desenho da aplicação e diretrizes de implementação. Meu foco é construir sistemas **manutenível, observáveis, performáticos e preparados para crescimento**.
+Atuo em diferentes etapas do ciclo de vida da solução, desde o entendimento das necessidades de negócio e restrições técnicas até a definição da arquitetura, estratégias de integração, desenho da aplicação e diretrizes de implementação.**.
 
-Experiência em ambientes de **alta complexidade**, tomando decisões arquiteturais baseadas em trade-offs de **performance, segurança, escalabilidade, custo, manutenibilidade e velocidade de entrega**. Trabalho próximo a times de produto, negócio, engenharia e infraestrutura para transformar requisitos em soluções técnicas sustentáveis.
+Experiência em ambientes de **alta complexidade**, tomando decisões arquiteturais baseadas em trade-offs de **performance, segurança, escalabilidade, custo, manutenibilidade e velocidade de entrega**. Trabalho próximo a times de produto, negócio, engenharia e infraestrutura para transformar requisitos em soluções técnicas.
 
 ## 🧠 Especialidades
 
