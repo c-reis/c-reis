@@ -39,8 +39,7 @@ Experiência em ambientes de **alta complexidade**, tomando decisões arquitetur
 🔗 APIs e Integração entre Sistemas  
 📈 Performance e Observabilidade  
 ⚙️ Sistemas Distribuídos  
-🏗️ Clean Architecture  
-☁️ Aplicações Cloud  
+🏗️ Clean Architecture 
 🧭 Tomada de Decisão Técnica       
           
 
